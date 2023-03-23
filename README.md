@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and UX Designer
 -----------------------------
 
-Felipe is a JavaScript developer and UX Designer, with a passion for study new technologies and design concepts. He is a full-time Full Stack Developer with some years of experience in Software Development. In spare time, he watch technology and food videos, watch series and movies with his wife and plays soccer with your friends.
+Felipe is a JavaScript developer and UX Designer, with a passion for study new technologies and design concepts. He is a full-time Back-end Developer with some years of experience in Software Development. In spare time, he watch technology and food videos, watch series and movies with his wife and plays soccer with your friends.
 
 * 🌍  I'm based in Presidente Prudente
 * ✉️  You can contact me at [felipe.embersisc@gmail.com](mailto:felipe.embersisc@gmail.com)
