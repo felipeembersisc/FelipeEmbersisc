@@ -1,8 +1,7 @@
-<h4 align="left">Hello there 👋</h1>
-<h5 align="left">A Software Developer by day ☼ and a CTO at Papets by night ☾</h3>
-
-<p>Software Developer at PoupaCred;</p>
+<h3 align="left">Hello there 👋</h3>
+<h4 align="left">A Software Developer and UX Designer</h4>
 
 - ⚙️ I use daily: .js, .ts, .jsx, .py
-- 💬 ping me about web development, development, design thinking, design, clean Architecture, clean Code
+- 🧑‍💻 I currently work with Software Developer at PoupaCred
+- 💬 Ping me about web development, development, design thinking, design, clean architecture, clean Code
 - 📫 How to reach me **felipe.embersisc@gmail.com**
