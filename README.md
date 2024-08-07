@@ -3,5 +3,5 @@
 
 - ⚙️ I use daily: .jsx, .js, .py, .cs
 - 🧑‍💻 I currently work with Software Developer at PoupaCred
-- 💬 Let's talk  about web development, development, design thinking, design, clean architecture, clean code
+- 💬 Let's talk about development, design and drink a good coffee
 - 📫 How to reach me **felipe.embersisc@gmail.com**
