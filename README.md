@@ -1,4 +1,4 @@
-<h3 align="left">Hello there 👋</h3>
+<h3 align="left">Hello 👋</h3>
 <h4 align="left">A Software Developer and UX Designer</h4>
 
 - ⚙️ I use daily: .jsx, .js, .ts, .py, .cs
