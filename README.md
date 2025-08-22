@@ -1,5 +1,5 @@
 <h3 align="left">Hello 👋</h3>
-<h4 align="left">A Software Developer and UX Designer</h4>
+<h4 align="left">A Web Developer and UX Designer</h4>
 
 - ⚙️ My stacks: .js, .ts, .py, .dart
 - 🧑‍💻 I currently work with Software Engineer at PoupaCred
