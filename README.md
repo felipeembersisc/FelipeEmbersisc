@@ -3,5 +3,5 @@
 
 - ⚙️ My stacks: .js, .ts, .py, .dart
 - 🧑‍💻 I currently work with Web Developer at PoupaCred
-- 💬 Let's talk about development, design and drink a good coffee
+- 💬 Let's talk about development, design and good coffees
 - 📫 How to reach me **felipe.embersisc@gmail.com**
