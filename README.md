@@ -1,4 +1,4 @@
-<h3 align="left">Hello, Felipe there 👋</h3>
+<h3 align="left">👋 Hello, Felipe here</h3>
 <h4 align="left">I'm a Web Developer</h4>
 
 - ⚙️ My stacks: .js, .jsx, .ts, .tsx, .py
