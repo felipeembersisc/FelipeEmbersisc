@@ -1,13 +1,13 @@
 <div align="center">
 
-```
+<pre>
 ██████╗ ███████╗██╗     ██╗██████╗ ███████╗
 ██╔════╝██╔════╝██║     ██║██╔══██╗██╔════╝
 █████╗  █████╗  ██║     ██║██████╔╝█████╗  
 ██╔══╝  ██╔══╝  ██║     ██║██╔═══╝ ██╔══╝  
 ██║     ███████╗███████╗██║██║     ███████╗
 ╚═╝     ╚══════╝╚══════╝╚═╝╚═╝     ╚══════╝
-```
+</pre>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%8B+Hello%2C+Felipe+here!;%E2%9C%A8+Web+Developer;%F0%9F%92%AC+Dev+%7C+Design+%7C+Coffee)](https://git.io/typing-svg)
 
@@ -53,7 +53,7 @@ status  : Online 🟢
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeembersisc&theme=github_dark)](https://github.com/felipeembersisc)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=felipeembersisc&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://github.com/felipeembersisc)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felipeembersisc&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff)](https://github.com/felipeembersisc)
 
 ![](https://komarev.com/ghpvc/?username=felipeembersisc&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 
