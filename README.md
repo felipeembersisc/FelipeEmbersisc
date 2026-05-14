@@ -12,6 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%8B+Hello%2C+Felipe+here!;%E2%9C%A8+Web+Developer;%F0%9F%92%AC+Dev+%7C+Design+%7C+Coffee)](https://git.io/typing-svg)
 
 [![Gmail](https://img.shields.io/badge/felipe.embersisc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.embersisc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-panizza-embersisc/)
 
 </div>
 
