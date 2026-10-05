@@ -52,7 +52,7 @@ status  : Online 🟢
 
 ### 📌 Highlight
 
-**[Snipzy]([https://marketplace.visualstudio.com/publishers/felipeembersisc](https://marketplace.visualstudio.com/items?itemName=FelipeEmbersisc.snipzy)** — a VS Code extension with snippets for JS/TS/React, published on the Marketplace.
+**[Snipzy](https://marketplace.visualstudio.com/items?itemName=FelipeEmbersisc.snipzy)** — a VS Code extension with snippets for JS/TS/React, published on the Marketplace.
 
 **[Cupertino Code](https://marketplace.visualstudio.com/items?itemName=felipeembersisc.cupertino-code)** — a VS Code extension with Xcode-inspired dark and light themes, macOS-style file icons and one-click SF Mono setup, published on the Marketplace.
 
